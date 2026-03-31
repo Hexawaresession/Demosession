@@ -1,1 +1,1 @@
-this is a text file 2
+this is a not a text file, it is a sample file
